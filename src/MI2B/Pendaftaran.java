@@ -26,7 +26,7 @@ public class Pendaftaran {
         
         System.out.println("");
         Mahasiswa mhs2 =new Mahasiswa();
-        mhs2.nama ="Rian";
+        mhs2.nama ="fajrin";
         mhs2.nobp="2101092050";
         mhs2.kelas="Mi2B";
         mhs2.prodi="MI";
