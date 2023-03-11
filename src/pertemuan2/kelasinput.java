@@ -16,7 +16,7 @@ public class kelasinput {
     public static void main (String []args){
     Scanner sc = new Scanner (System.in);
     System.out.print("masuikan nama:");
-    person p = new person() ;
+    person p = new person();
     p.setName(sc.nextLine());
     System.out.print("nama anda adalah = "+p.getName());
     }

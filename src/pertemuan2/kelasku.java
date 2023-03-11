@@ -10,7 +10,7 @@ package pertemuan2;
  * @author ASUS
  */
 public class kelasku {
-    public static void main (String []args){
+     public static void main (String []args){
     person objku = new person ();
     objku.setName ("Harian");
      System.out.print("nama :"+objku.getName());

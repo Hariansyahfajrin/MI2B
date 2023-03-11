@@ -14,6 +14,6 @@ public class motor {
         System.out.println("motor sudah dibuat");
     }
     public static void main (String []args){
-        motor m = new motor();
+        motor m = new motor() ;
     }
 }
